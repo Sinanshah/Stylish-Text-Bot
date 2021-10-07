@@ -13,22 +13,22 @@ async def start(c, m):
     # start text
     text = f"""Hey! {m.from_user.mention(style='md')},
 
-** I am Stylish Font Bot ✍️**
+** I am Stylish Fonts Bot 🐒**
 
-`I can help you to get stylish fonts. Just send me some text and see magic.`
+`I can help you to get stylish fonts (only simple fonts. Just send me some text and see magic.`
 
-** Developer by :** ❤️ ▷ [@ZauteKm](https://t.me/ZauteKm/346)
+** MAGICIAN  :** 🐒🦍 ▷ [@SADIESINK](https://Google.com)
 """
 
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton(' Group', url=f"https://google.com"),
-            InlineKeyboardButton('Channel 📢', url=f"https://google.com")
+            InlineKeyboardButton('🐖🐷Group', url=f"https://google.com"),
+            InlineKeyboardButton('Channel 🐩', url=f"https://google.com")
             ],[
-            InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
-            InlineKeyboardButton('Bot Lists 🤖', url=f"https://google.com"),
-            InlineKeyboardButton('GitHup 🤣', url=f"https://google.com")
+            InlineKeyboardButton('💙 Credit', url=f"https://t.me/{owner_username}"),
+            InlineKeyboardButton('Bot Lists 🐷', url=f"https://google.com"),
+            InlineKeyboardButton('GitHup 😾', url=f"https://google.com")
             ],[
             InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url=f"https://youtube.com")
         ]
